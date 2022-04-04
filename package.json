@@ -1,0 +1,11 @@
+{
+  "name": "core-farming-framework-api-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}
